@@ -1,4 +1,6 @@
-### Hi there, I'm Niloy - aka [GhostBOT][website] 👋
+# Hi there, I'm Atiq Israk Niloy - aka [GhostBOT][website] 👋 
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [Metagenomic Assembly Project][website]!
