@@ -9,7 +9,8 @@
 - 🥅 2020 Goals: Contribute more to my repos
 - ⚡ Fun fact: I love to sing and illustrate
 
-![GhostBOT](https://i.imgur.com/86LzD9Y.gif"GhostBOT")
+![p1](https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif)
+
 
 ### Connect with me:
 
