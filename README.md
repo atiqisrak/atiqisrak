@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate with other thinkers like me
 - 🥅 2020 Goals: Contribute more to my repos
 - ⚡ Fun fact: I love to sing and illustrate
-<div class="tenor-gif-embed" data-postid="13165216" data-share-method="host" data-width="100%" data-aspect-ratio="1.3351206434316354"><a href="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">Sultan Alrefaei Programmer GIF</a> from <a href="https://tenor.com/search/sultanalrefaei-gifs">Sultanalrefaei GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="https://tenor.com/3o2m.gif"></a>
 
 ### Connect with me:
 
