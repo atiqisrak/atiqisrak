@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Contribute more to my repos
 - ⚡ Fun fact: I love to sing and illustrate
 
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="https://tenor.com/3o2m.gif"></a>
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="https://media1.tenor.com/images/94a7a5973cba7bfc5fcde854959a46d4/tenor.gif?itemid=13165216"></a>
 
 ### Connect with me:
 
