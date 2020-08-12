@@ -3,13 +3,13 @@
 
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a [Metagenomic Assembly Project][website]!
+- 🔭 I’m currently working on a [Metagenomic Assembly Project][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other thinkers like me
 - 🥅 2020 Goals: Contribute more to my repos
 - ⚡ Fun fact: I love to sing and illustrate
 
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="/images/p1.gif" alt="p1"></a>
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="https://i.imgur.com/86LzD9Y.gif" alt="p1"></a>
 
 ### Connect with me:
 
