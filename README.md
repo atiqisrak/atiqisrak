@@ -1,5 +1,6 @@
 # Hi there, I'm Atiq Israk Niloy - aka [GhostBOT][website] 👋 
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/"><img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 
 
 ## I'm a Developer!
@@ -9,7 +10,10 @@
 - 🥅 2020 Goals: Contribute more to my repos
 - ⚡ Fun fact: I love to sing and illustrate
 
-![p1](https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif)
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif"></a>
+<!-- ![p1](https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif) -->
 
 
 ### Connect with me:
