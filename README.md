@@ -11,19 +11,19 @@
 - ⚡ Fun fact: I love to sing and illustrate
 
 
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
-<img width="400" align="left" src="https://user-images.githubusercontent.com/22797857/90096231-89604300-dd54-11ea-9268-e68e39a9ad21.png"></a>
+
+<img width="400" align="left" src="https://user-images.githubusercontent.com/22797857/90096231-89604300-dd54-11ea-9268-e68e39a9ad21.png">
 <!-- ![p1](https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif) -->
 
 <br />
 <br />
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
-<img width="400" align="right" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif"></a>
+
+<img width="400" align="right" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif">
 
 <br />
 <br />
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
-<img width="400" align="left" src="https://user-images.githubusercontent.com/22797857/90096287-b1e83d00-dd54-11ea-90d3-5f78025a6a3e.gif"></a>
+
+<img width="400" align="left" src="https://user-images.githubusercontent.com/22797857/90096287-b1e83d00-dd54-11ea-90d3-5f78025a6a3e.gif">
 
 <br />
 <br />
