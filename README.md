@@ -12,9 +12,71 @@
 
 
 <a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
-<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif"></a>
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096231-89604300-dd54-11ea-9268-e68e39a9ad21.png"></a>
 <!-- ![p1](https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif) -->
 
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096287-b1e83d00-dd54-11ea-90d3-5f78025a6a3e.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096293-b44a9700-dd54-11ea-9377-8ec4a9eb987f.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096296-b6145a80-dd54-11ea-8b8e-8c7d4d63247f.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096301-bad90e80-dd54-11ea-88ae-acc596d4a0d6.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096305-bd3b6880-dd54-11ea-94c6-0c107f8a2ccc.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096309-be6c9580-dd54-11ea-91c2-84f66a117c14.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096317-c1678600-dd54-11ea-98f9-ab4cc976384f.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096319-c3314980-dd54-11ea-8c76-948b3c34d75c.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096323-c62c3a00-dd54-11ea-9576-ce48fff0dec2.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096327-c9272a80-dd54-11ea-9d25-90a456766fe2.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096362-de9c5480-dd54-11ea-91be-b29d0911d965.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="right" src="https://user-images.githubusercontent.com/22797857/90096370-e1974500-dd54-11ea-90ac-0f23a1bc58bc.gif"></a>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
+<img width="250" align="left" src="https://user-images.githubusercontent.com/22797857/90096386-e956e980-dd54-11ea-9a6f-69ff50a25713.gif"></a>
 
 ### Connect with me:
 
