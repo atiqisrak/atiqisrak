@@ -16,16 +16,16 @@
 
 <br />
 
-<p>
+/* <p>
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif"></p>
 
 <br />
-
+*/
 <p>
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90096287-b1e83d00-dd54-11ea-90d3-5f78025a6a3e.gif"></p>
 
 <br />
-
+/*
 <p>
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90096293-b44a9700-dd54-11ea-9377-8ec4a9eb987f.gif"></p>
 
@@ -60,12 +60,12 @@
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90096317-c1678600-dd54-11ea-98f9-ab4cc976384f.gif"></p>
 
 <br />
-
+*/
 <p>
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90096319-c3314980-dd54-11ea-8c76-948b3c34d75c.gif"></p>
 
 <br />
-
+/*
 <p>
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90096323-c62c3a00-dd54-11ea-9576-ce48fff0dec2.gif"></p>
 
@@ -94,7 +94,9 @@
 <a>
 <img width="700" src="https://user-images.githubusercontent.com/22797857/90096386-e956e980-dd54-11ea-9a6f-69ff50a25713.gif"></p>
 
-<br /><br /><br />
+<br />
+*/
+<br /><br />
 
 
 ### Connect with me:
