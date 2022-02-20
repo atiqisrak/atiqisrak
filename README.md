@@ -114,6 +114,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+![Atiq Israk's GitHub stats](https://github-readme-stats.vercel.app/api?username=atiqisrak&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atiqisrak&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=atiqisrak&show_icons=true&hide_border=true" />
 
