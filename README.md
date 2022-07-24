@@ -11,8 +11,6 @@
 - ⚡ Fun fact: I love to sing and illustrate
 
 
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096231-89604300-dd54-11ea-9268-e68e39a9ad21.png"></p>
 
 <br />
 
