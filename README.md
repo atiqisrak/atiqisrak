@@ -1,127 +1,126 @@
-# Hi there, I'm Atiq Israk Niloy - aka [GhostBOT][website] 👋 
-<a target="_blank" href="https://www.linkedin.com/in/atiq-israk/">
-<img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
+<h1 align="center">Hi there, I'm Atiq Israk 👋</h1>
 
+<p align="center">
+  <a href="https://atiqisrak.vercel.app/">🌐 Website</a> •
+  <a href="mailto:atiqisrak@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/atiqisrak/">💼 LinkedIn</a>
+</p>
 
-## I'm a Developer!
-- 🔭 I’m currently working on a [Metagenomic Assembly Project][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other thinkers like me
-- 🥅 2020 Goals: Contribute more to my repos
-- ⚡ Fun fact: I love to sing and illustrate
-
-
-
-<br />
-
-<!-- <p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90032297-0b625480-dce0-11ea-8dbc-f8583c09ea1a.gif"></p>
-<br />
--->
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096287-b1e83d00-dd54-11ea-90d3-5f78025a6a3e.gif"></p>
-
-<br />
-<!--
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096293-b44a9700-dd54-11ea-9377-8ec4a9eb987f.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096296-b6145a80-dd54-11ea-8b8e-8c7d4d63247f.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096301-bad90e80-dd54-11ea-88ae-acc596d4a0d6.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096305-bd3b6880-dd54-11ea-94c6-0c107f8a2ccc.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096309-be6c9580-dd54-11ea-91c2-84f66a117c14.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096317-c1678600-dd54-11ea-98f9-ab4cc976384f.gif"></p>
-<br />
--->
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096319-c3314980-dd54-11ea-8c76-948b3c34d75c.gif"></p>
-
-<br />
-<!--
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096323-c62c3a00-dd54-11ea-9576-ce48fff0dec2.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096327-c9272a80-dd54-11ea-9d25-90a456766fe2.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096362-de9c5480-dd54-11ea-91be-b29d0911d965.gif"></p>
-<br />
-<p>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096370-e1974500-dd54-11ea-90ac-0f23a1bc58bc.gif"></p>
-<br />
-<a>
-<img width="700" src="https://user-images.githubusercontent.com/22797857/90096386-e956e980-dd54-11ea-9a6f-69ff50a25713.gif"></p>
-<br />
--->
-<br /><br />
-
-
-### Connect with me:
-
-[<img align="center" alt="atiqisrak.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="GhostBOT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="GhostBOT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="GhostBOT | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="GhostBOT | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="center" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="center" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="center" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="center" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="center" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Resume](https://drive.google.com/file/d/1RTR4OhdGQDraqbTsvDoMjixZcTKJ_QPL/view)
-- [Machine Learning is fun](https://www.linkedin.com/pulse/machine-learning-fun-atiq-israk/)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  Senior Software Engineer • Product Manager • Open Source Enthusiast
+</p>
 
 ---
-![Atiq Israk's GitHub stats](https://github-readme-stats.vercel.app/api?username=atiqisrak&count_private=true)
 
-<!-- <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=atiqisrak&show_icons=true&hide_border=true" /> -->
+### 🚀 About Me
 
-[website]: https://atiqisrak.com
-[twitter]: https://twitter.com/NiloyNiil
-[youtube]: https://www.youtube.com/channel/UCYC0k9BuO0rUffkQaSsKuEw
-[instagram]: https://www.instagram.com/niloyniil/
-[linkedin]: https://www.linkedin.com/in/atiq-israk/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+- 🌍 Based in **Gulshan-1, Dhaka, Bangladesh**
+- 🔭 Currently working as **Product Manager, Headless CMS**
+- 👨‍💻 Over **5+ years** of experience in full-stack development, team leadership, and strategic innovation
+- 💡 Proficient in **MERN**, **LAMP**, **CMS**, **PWAs**, and workflow automation
+- 🏆 Saved **$60k** through automation and increased revenue by **160%** with AI chatbot implementations
+- 🎯 Seeking to drive impactful projects, improve efficiency, and mentor teams
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
+</p>
+
+### 💼 Experience
+
+#### **Webable Digital** | *Sr. Software Engineer & Tech Team Lead*
+
+*June 2023 - Present*
+
+- **Tech Team Leadership**: Directed a 12-member team, enhancing collaboration and productivity through Agile practices (Scrum, Kanban) and mentorship, boosting team performance by **30%**.
+- **Strategic Innovation**: Led initiatives using NodeJS, ExpressJS, MongoDB, and AWS (EC2, S3, RDS) to reduce project delivery time by **40%**.
+- **Data-Driven Decisions**: Established processes using GraphQL and RESTful APIs, improving project completion rates and reducing costs by **20%**.
+- **Full-Stack Development**: Spearheaded the development of **MAVE CMS**, utilizing MACH architecture with React, NextJS, TypeScript, and Tailwind CSS.
+
+#### **Navana Group** | *Full Stack Web Developer, Product & Engineering*
+
+*August 2020 - March 2023*
+
+- **Cost-Efficiency Champion**: Implemented resource optimization with Docker and AWS, saving over **$20K**.
+- **Award-Winning Contributions**: Secured consecutive Best Employer Awards by fostering a positive work environment.
+
+#### **TechCare Inc.** | *Frontend Web Developer*
+
+*February 2019 - July 2020*
+
+- **Template Development**: Created over **120** website templates using React and NextJS, achieving **863,000+** downloads and **430,000+** purchases.
+- **Innovative Animations**: Integrated Lottiefiles & GSAP, increasing sales by **27%** and onboarding **170%** more clients.
+
+### 🌟 Featured Projects
+
+#### [MAVE CMS](https://github.com/atiqisrak/mave-cms) *(SaaS | API First Enterprise Software)*
+
+- **Role**: Product Owner & Lead Developer
+- Developed a headless CMS using MACH architecture, GraphQL, Kafka, and API monitoring tools.
+- Boosted team efficiency by **30%** and improved project delivery time by **20%** through Agile methodologies and Lean Six Sigma.
+
+#### [Aranya E-Commerce](https://github.com/atiqisrak/aranya-ecommerce)
+
+- Developed a fully functional e-commerce platform using NextJS, Redux, and Cloudinary.
+- Integrated CDN for enhanced performance, increasing load times by **35%** and enhancing user experience.
+
+#### [UHL Hospital Management System](https://github.com/atiqisrak/uhl-hms)
+
+- Designed and developed a comprehensive hospital management system with features like doctor appointments and patient management.
+- Utilized NextJS and Redux for frontend, and PHP Laravel for backend services, resulting in a **40%** increase in system efficiency.
+
+### 📚 Education
+
+- 🎓 **Southeast University** - Bachelor of Science in Computer Science and Engineering, 2019
+- 🎓 **Notre Dame College** - Science, 2015
+
+### 🏆 Certifications
+
+- **Design Thinking** by Microsoft and PMI
+- **Technical Project Management** by PMI & Microsoft
+- **Agile Software Development** by LinkedIn
+
+### 📫 Get in Touch
+
+<p>
+  <a href="mailto:atiqisrak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="tel:+8801701893882"><img alt="Phone" src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=WhatsApp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atiqisrak/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://atiqisrak.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atiqisrak&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atiqisrak&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+- 🌱 When I'm not coding, I love exploring the latest trends in data analytics and contributing to open-source projects!
+
+<!--
+**atiqisrak/atiqisrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Feel free to customize this README as you see fit!
+-->
